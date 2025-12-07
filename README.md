@@ -17,7 +17,7 @@ A Django REST Framework API for managing books, authors, borrowers, and borrowin
 ## How to Run
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Kgatatsoo/Library-Management-Api.git
 cd library-management-api
 pip install -r requirements.txt
 python manage.py runserver
